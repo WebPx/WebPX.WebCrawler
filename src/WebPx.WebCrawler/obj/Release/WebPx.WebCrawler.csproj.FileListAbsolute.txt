@@ -1,0 +1,5 @@
+C:\Users\jlchavez\documents\visual studio 2017\Projects\WebPx.WebTableReader\WebPx.WebCrawler\bin\Release\WebPx.WebCrawler.dll
+C:\Users\jlchavez\documents\visual studio 2017\Projects\WebPx.WebTableReader\WebPx.WebCrawler\bin\Release\WebPx.WebCrawler.pdb
+C:\Users\jlchavez\documents\visual studio 2017\Projects\WebPx.WebTableReader\WebPx.WebCrawler\obj\Release\WebPx.WebCrawler.dll
+C:\Users\jlchavez\documents\visual studio 2017\Projects\WebPx.WebTableReader\WebPx.WebCrawler\obj\Release\WebPx.WebCrawler.pdb
+C:\Users\jlchavez\documents\visual studio 2017\Projects\WebPx.WebTableReader\WebPx.WebCrawler\obj\Release\WebPx.WebCrawler.csprojResolveAssemblyReference.cache

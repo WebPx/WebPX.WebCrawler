@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+    <metadata>
+        <id>WebPx.WebCrawler</id>
+        <version>7.0.0.1</version>
+        <title>WebPx Framework</title>
+        <authors>WebPx Technologies</authors>
+        <owners>WebPx Technologies</owners>
+        <licenseUrl>https://www.webpx.com/licensing/freeware-license</licenseUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Utilities to crawl the web without a browser</description>
+        <summary>Utilities to crawl the web without a browser</summary>
+        <copyright>Copyright © WebPx Technologies 2017</copyright>
+        <tags>Web,Crawl,Download</tags>
+        <dependencies>
+            <group targetFramework=".NETFramework4.5">
+                <dependency id="HtmlAgilityPack" version="1.5.1" />
+            </group>
+        </dependencies>
+    </metadata>
+    <files>
+        <file src="bin\release\WebPx.WebCrawler.dll" target="lib\net40\WebPx.WebCrawler.dll" />
+    </files>
+</package>
